@@ -1,6 +1,6 @@
 # Chess client
 
-This project is developed for Data Structures Lab course by University of Helsinki, 2021 period 1.  
+This project was developed as part of the Data Structures Lab course at the University of Helsinki (Period I, 2021).
 
 ## Documentation
 
